@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conjunto-productos-Herramientas>
+<herramienta>
+<codigo>h1</codigo>
+<nombre>desatornillador</nombre>
+<tipoTrabajo>liviano</tipoTrabajo>
+<precioUnitario>2300</precioUnitario>
+</herramienta>
+<herramienta>
+<codigo>h2</codigo>
+<nombre>martillo</nombre>
+<tipoTrabajo>liviano</tipoTrabajo>
+<precioUnitario>3300</precioUnitario>
+</herramienta>
+<herramienta>
+<codigo>h3</codigo>
+<nombre>prensa hidraulica</nombre>
+<tipoTrabajo>pesado</tipoTrabajo>
+<precioUnitario>195000</precioUnitario>
+</herramienta>
+<herramienta>
+<codigo>h4</codigo>
+<nombre>esmeril</nombre>
+<tipoTrabajo>pesado</tipoTrabajo>
+<precioUnitario>124000</precioUnitario>
+</herramienta>
+<herramienta>
+<codigo>h5</codigo>
+<nombre>gata hidraulica</nombre>
+<tipoTrabajo>pesado</tipoTrabajo>
+<precioUnitario>25000</precioUnitario>
+</herramienta>
+</conjunto-productos-Herramientas>
+
+
